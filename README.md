@@ -1,4 +1,7 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNhNGFlMGQ3NnczeHk5czNraTlyZm9iNWE4bmQ2a3Fub293M3BiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AvVomHLXVfoLrgmlJX/giphy.gif" width="200"/>
+  <h1 align="center">Hi 👋, I'm Felipe Chaves</h1>
+</div>
 
 <!--
 **FelipeCh18/FelipeCh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
